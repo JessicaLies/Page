@@ -96,8 +96,8 @@ ul {
    list-style-type:none;
 }
 
-directory {
-  display: inline block
+ul.directory.li {
+  display: inline-block
 }
 
 img
