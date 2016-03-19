@@ -101,6 +101,7 @@ ul.directory li {
   display: inline-block;
   text-align: right;
   padding-left: 2.488em; /* 5:6 ratio on baseline */
+  padding-bottom: 1em; /* 18px / 18px */
 }
 
 img
