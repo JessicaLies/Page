@@ -92,8 +92,8 @@ p {
   padding-bottom: 2.88em; /* 25.92 * 2 / 18px */
 }
 
-.jpg
+img
 {
-  width: 100%;
-  z-index: 0;
+  display: block;
+  max-width: 100%;
 }
