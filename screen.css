@@ -92,6 +92,10 @@ p {
   padding-bottom: 2.88em; /* 25.92 * 2 / 18px */
 }
 
+ul {
+   list-style-type:none;
+}
+
 img
 {
   display: block;
