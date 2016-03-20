@@ -108,4 +108,5 @@ img
 {
   display: block;
   max-width: 100%;
+  padding-top: 1.4400000000000002em; /* 25.92px / 18px */
 }
